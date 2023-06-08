@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p5YWIom3)
 
-# **Equipo 3.0** 📑📎
+# **Practica 6** 📑📎
 
 </div>
 
 
 
 <div align="center">
+<b> <em> Practica Realizada Por: </em>
 
-<b>Arriaga Santana Estela Monserrat- <em> 319044357 </em>   ~   Castañón Maldonado Carlos Emilio- <em> 319053315 </em>  ~ Lopez Diego Gabriela- <em> 318243485</em>
+<b>Arriaga Santana Estela Monserrat  ~   Castañón Maldonado Carlos Emilio  ~ Lopez Diego Gabriela
 
 </div>
 

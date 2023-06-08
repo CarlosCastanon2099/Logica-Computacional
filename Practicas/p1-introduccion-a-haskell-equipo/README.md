@@ -1,9 +1,21 @@
-# **Equipo** 🎮🥊
+<div align="center">
 
-- Arriaga Santana Estela Monserrat 
+# **Practica 1** 🕰️🚀
 
-- Castañón Maldonado Carlos Emilio 
+</div>
 
 
 
-- **Nota** Si realizamos los ejercicios extra 
+<div align="center">
+<b> <em> Practica Realizada Por: </em>
+
+<b>Arriaga Santana Estela Monserrat  &  Castañón Maldonado Carlos Emilio
+
+</div>
+
+
+<div align="center">
+
+[![](https://media.giphy.com/media/iwJMmqOiqzss0/giphy.gif)](https://www.youtube.com/watch?v=NVIbCvfkO3E)
+
+</div>
