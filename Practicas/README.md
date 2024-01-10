@@ -24,13 +24,14 @@ sus respectivas paginas oficiales.
 En el caso de Haskell, la estructura de compilación y ejecución de un programa es:
 
 Haskell :
-```
+
+```Ruby
 ghci NombreDelArchivo.hs
 ```
 
 Habiendo ejecutado el anterior en terminal dentro de la carpeta que alberga el archivo, tendremos una pantalla como la siguiente:
 
-```
+```Ruby
 GHCi, version 8.6.5: http://www.haskell.org/ghc/  :? for help
 [1 of 1] Compiling NombreDelArchivo ( NombreDelArchivo.hs, interpreted )
 Ok, one module loaded.
@@ -44,13 +45,14 @@ Con esto ya podremos hacer uso de las funciones que esten presentes en el archiv
 En el caso de Prolog, la estructura de compilación y ejecución de un programa es:
 
 Prolog :
-```
+
+```Haskell
 swipl NombreDelArchivo.pl 
 ```
 
 Habiendo ejecutado en terminal el anterior dentro de la carpeta que alberga el archivo, tendremos una pantalla como la siguiente:
 
-```
+```Haskell
 Welcome to SWI-Prolog (threaded, 64 bits, version 9.0.4)
 SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
 Please run ?- license. for legal details.
@@ -71,6 +73,6 @@ para el desarrollo semi-interactivo de pruebas comprobadas por máquina.
 
 Tendremos que todo lo que hagamos en Coq deberemos hacerlo desde adentro del IDE de Coq, esto incluye escritura de codigo y su ejecución.
 
-Un ejemplo de compilacion-ejecucion en Coq es el de este [ejercicio extra](https://github.com/CarlosCastanon2099/Logica-Computacional/blob/main/Ejercicios-Extras/practica6/Extra1.v)
+Un ejemplo de compilacion-ejecucion en Coq es el de este [ejercicio extra](https://github.com/CarlosCastanon2099/Logica-Computacional/blob/main/Ejercicios-Extras/practica6/Extra1.v).
 
 ![](https://github.com/CarlosCastanon2099/Logica-Computacional/blob/main/GIFS/01.gif)
